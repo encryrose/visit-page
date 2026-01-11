@@ -43,7 +43,7 @@
             <div class="absolute -inset-6 rounded-full bg-gradient-to-r from-white/10 via-white/5 to-white/10 blur-2xl" data-reveal />
             <NuxtImg
               data-reveal
-              src="avatar.jpg"
+              src="/avatar.jpg"
               alt="Avatar"
               class="relative h-28 w-28 rounded-2xl border border-white/15 object-cover shadow-2xl sm:h-32 sm:w-32"
             />
